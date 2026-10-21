@@ -1,6 +1,5 @@
+<img width="1470" height="717" alt="Screenshot 2026-10-21 at 22 13 54" src="https://github.com/user-attachments/assets/8fe09a2f-10ec-4cb6-aa8d-995ad6401564" />
 # Space Wars 🚀
-
-Click here to see deployed game
 
 # Description 📕
 
